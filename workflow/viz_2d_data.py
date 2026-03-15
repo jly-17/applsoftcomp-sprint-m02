@@ -17,7 +17,7 @@ plt.title("2D Data: Scatter Plot of X & Y")
 
 #save fig
 plt.tight_layout()
-plt.savefig("figs/fig-2d_data.png", dpi=300)
+plt.savefig("figs/fig-2d-data.png", dpi=300)
 plt.close()
 
 
